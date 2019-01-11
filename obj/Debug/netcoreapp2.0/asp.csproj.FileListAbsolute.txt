@@ -1,0 +1,11 @@
+C:\Users\cory-sfg\Desktop\projects\asp\bin\Debug\netcoreapp2.0\asp.deps.json
+C:\Users\cory-sfg\Desktop\projects\asp\bin\Debug\netcoreapp2.0\asp.runtimeconfig.json
+C:\Users\cory-sfg\Desktop\projects\asp\bin\Debug\netcoreapp2.0\asp.runtimeconfig.dev.json
+C:\Users\cory-sfg\Desktop\projects\asp\bin\Debug\netcoreapp2.0\asp.dll
+C:\Users\cory-sfg\Desktop\projects\asp\bin\Debug\netcoreapp2.0\asp.pdb
+C:\Users\cory-sfg\Desktop\projects\asp\obj\Debug\netcoreapp2.0\asp.csprojAssemblyReference.cache
+C:\Users\cory-sfg\Desktop\projects\asp\obj\Debug\netcoreapp2.0\asp.csproj.CoreCompileInputs.cache
+C:\Users\cory-sfg\Desktop\projects\asp\obj\Debug\netcoreapp2.0\asp.AssemblyInfoInputs.cache
+C:\Users\cory-sfg\Desktop\projects\asp\obj\Debug\netcoreapp2.0\asp.AssemblyInfo.cs
+C:\Users\cory-sfg\Desktop\projects\asp\obj\Debug\netcoreapp2.0\asp.dll
+C:\Users\cory-sfg\Desktop\projects\asp\obj\Debug\netcoreapp2.0\asp.pdb
